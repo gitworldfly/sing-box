@@ -120,12 +120,13 @@ Usage: sing-box [options]... [args]...
 
 
 
-安装
+安装	
+	
 系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu 22，谨慎使用 CentOS，脚本可能无法正常运行！
 
 执行如下命令：
 
-bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)   
+bash <(wget -qO- -o- https://github.com/gitworldfly/sing-box/raw/main/install.sh)   
 
 如果需要指定 sing-box 版本，请在安装命令后面加 -v ver 参数
 
